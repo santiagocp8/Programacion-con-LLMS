@@ -1,0 +1,3 @@
+Escribe una función llamada entrenar_clasificador_robusto que reciba un DataFrame X y etiquetas y. 
+La función debe construir y devolver un objeto Pipeline de sklearn que incluya un StandardScaler y un RandomForestClassifier con 50 estimadores.
+El pipeline debe devolverse ya entrenado (fit) con los datos de entrada.
