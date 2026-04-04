@@ -1,0 +1,5 @@
+Pregunta 1 : 
+Desarrolla una función llamada codificar_fechas_ciclicas que reciba un DataFrame y el nombre de una columna de tipo datetime.
+La función debe extraer el "día de la semana" (0-6) y generar dos nuevas columnas, dia_seno y dia_coseno, 
+utilizando transformaciones trigonométricas para preservar la naturaleza cíclica del tiempo.
+Finalmente, debe eliminar la columna original de fecha y devolver el DataFrame.
