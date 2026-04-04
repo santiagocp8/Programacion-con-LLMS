@@ -1,4 +1,0 @@
-Crea una función llamada imputar_nulos_por_grupo que reciba un DataFrame, 
-una columna numérica con valores faltantes (col_num) y una columna categórica (col_cat). 
-La función debe rellenar los nulos de col_num utilizando la mediana de dicha columna calculada específicamente para cada grupo de col_cat.
-Si un grupo entero es nulo, debe usar la mediana global del dataset.
