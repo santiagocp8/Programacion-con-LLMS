@@ -1,0 +1,3 @@
+Desarrolla la función evaluar_f1_promedio que reciba arrays y_true e y_pred de un problema multiclase.
+La función debe calcular y devolver el F1-Score utilizando el promedio tipo 'macro'. 
+Utiliza la implementación de sklearn.
